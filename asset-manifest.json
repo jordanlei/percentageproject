@@ -1,34 +1,38 @@
 {
   "files": {
-    "main.css": "/percentageproject/static/css/main.0d294b44.chunk.css",
-    "main.js": "/percentageproject/static/js/main.deed6dfb.chunk.js",
-    "main.js.map": "/percentageproject/static/js/main.deed6dfb.chunk.js.map",
+    "main.css": "/percentageproject/static/css/main.0949de28.chunk.css",
+    "main.js": "/percentageproject/static/js/main.86512ba1.chunk.js",
+    "main.js.map": "/percentageproject/static/js/main.86512ba1.chunk.js.map",
     "runtime-main.js": "/percentageproject/static/js/runtime-main.1907e37b.js",
     "runtime-main.js.map": "/percentageproject/static/js/runtime-main.1907e37b.js.map",
     "static/css/2.b0bb7f2c.chunk.css": "/percentageproject/static/css/2.b0bb7f2c.chunk.css",
-    "static/js/2.d60eaf48.chunk.js": "/percentageproject/static/js/2.d60eaf48.chunk.js",
-    "static/js/2.d60eaf48.chunk.js.map": "/percentageproject/static/js/2.d60eaf48.chunk.js.map",
+    "static/js/2.6ce1e3ce.chunk.js": "/percentageproject/static/js/2.6ce1e3ce.chunk.js",
+    "static/js/2.6ce1e3ce.chunk.js.map": "/percentageproject/static/js/2.6ce1e3ce.chunk.js.map",
     "index.html": "/percentageproject/index.html",
-    "precache-manifest.ca057b0751149d8ff0795faefe432914.js": "/percentageproject/precache-manifest.ca057b0751149d8ff0795faefe432914.js",
+    "precache-manifest.806448fec22922d647e1ffa04d43b4e1.js": "/percentageproject/precache-manifest.806448fec22922d647e1ffa04d43b4e1.js",
     "service-worker.js": "/percentageproject/service-worker.js",
     "static/css/2.b0bb7f2c.chunk.css.map": "/percentageproject/static/css/2.b0bb7f2c.chunk.css.map",
-    "static/css/main.0d294b44.chunk.css.map": "/percentageproject/static/css/main.0d294b44.chunk.css.map",
-    "static/js/2.d60eaf48.chunk.js.LICENSE": "/percentageproject/static/js/2.d60eaf48.chunk.js.LICENSE",
+    "static/css/main.0949de28.chunk.css.map": "/percentageproject/static/css/main.0949de28.chunk.css.map",
+    "static/js/2.6ce1e3ce.chunk.js.LICENSE": "/percentageproject/static/js/2.6ce1e3ce.chunk.js.LICENSE",
     "static/media/abstract1.svg": "/percentageproject/static/media/abstract1.8d917312.svg",
     "static/media/abstract2.svg": "/percentageproject/static/media/abstract2.cacfc72b.svg",
     "static/media/abstract3.svg": "/percentageproject/static/media/abstract3.a47dbf43.svg",
     "static/media/abstract4.svg": "/percentageproject/static/media/abstract4.05742b5b.svg",
     "static/media/abstract5.svg": "/percentageproject/static/media/abstract5.1d4157f4.svg",
     "static/media/abstract6.svg": "/percentageproject/static/media/abstract6.c7cd0175.svg",
+    "static/media/datawelcome.svg": "/percentageproject/static/media/datawelcome.a44eca88.svg",
+    "static/media/datawelcome1.svg": "/percentageproject/static/media/datawelcome1.678f9ebb.svg",
     "static/media/logo-insta.png": "/percentageproject/static/media/logo-insta.30fa0886.png",
     "static/media/logo.svg": "/percentageproject/static/media/logo.ee7cd8ed.svg",
-    "static/media/welcome.css": "/percentageproject/static/media/welcome2.6ccf4079.svg"
+    "static/media/welcome.svg": "/percentageproject/static/media/welcome.da6ef726.svg",
+    "static/media/welcome1.svg": "/percentageproject/static/media/welcome1.959b2f09.svg",
+    "static/media/welcome2.svg": "/percentageproject/static/media/welcome2.6ccf4079.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1907e37b.js",
     "static/css/2.b0bb7f2c.chunk.css",
-    "static/js/2.d60eaf48.chunk.js",
-    "static/css/main.0d294b44.chunk.css",
-    "static/js/main.deed6dfb.chunk.js"
+    "static/js/2.6ce1e3ce.chunk.js",
+    "static/css/main.0949de28.chunk.css",
+    "static/js/main.86512ba1.chunk.js"
   ]
 }
