@@ -18,25 +18,21 @@ class About extends Component {
         <Col md={2}></Col>,
         <Col md={7}>
           <p style= {{color: "black"}}>
-          [Filler text] The term art has come to encompass so many diverse and exciting 
-          fields that it would be impossible to cover it all in an article, 
-          so for now let’s focus our attention primarily on visual art, although 
-          the concepts we explore here will extend to other forms of art as well. 
-          Too often, we narrow our scope of art to be something that depicts 
-          reality as is. It’s easy to go to a museum and pick the pieces that 
-          are most life-like, and marvel at the ability of artists to capture 
-          realistic scenes in the absence of photography. But art has changed so 
-          much since the invention of the photograph, and so too has the purpose and 
-          meaning of art itself. Just as it would be unfair to judge the quality of a 
-          sword by its ability to hammer a nail, so too is it unfair to judge art 
-          solely by its resemblance to human vision. 
-       
+          [Text subject to change] The Percentage Project is an artistic, visual outlet 
+          for data collected from an anonymous survey of Computer Science 
+          students each year. We want to show that the challenges that 
+          minorities and underrepresented groups face are not just numbers 
+          on a page - these are real people with stories to tell. 
+          The goal of the Percentage Project is to showcase data along with advocates 
+          to put a face to a number; we aim to encourage reflection upon the 
+          situations of minorities affected by microaggression, discrimination, 
+          and for what could be done to alleviate these instances.
           </p>
         </Col>]
     
       
     return (
-      <div className="dark-container" style={{paddingBottom: "10%"}}>            
+      <div className="dark-container" style={{height: "100vh", paddingTop: "20vh", paddingBottom: "10%"}}>            
         <div className= "mobile-only">
         <Row>
           <div className= "banner">

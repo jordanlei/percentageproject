@@ -6,6 +6,7 @@ import '../css/standard.css';
 class Menu extends Component {
   
   render() {
+    console.log(process.env.PUBLIC_URL + "/#/data")
     return (
       <div className = "sidenav">
         <Nav vertical>
@@ -24,9 +25,7 @@ class Menu extends Component {
           <NavItem>
             <Link class= "navlink" activeClass="active" to="welcome" href= "" spy={true} smooth={true} duration= {800}> Sponsors</Link>
           </NavItem>
-          <NavItem>
-            <Link class= "navlink" activeClass="active" to="welcome" href= "" spy={true} smooth={true} duration= {800}> Data</Link>
-          </NavItem>
+          <a href={process.env.PUBLIC_URL + "/#/data"}>Data</a>
           <NavItem>
             <Link class= "navlink" activeClass="active" to="contact" href= "" spy={true} smooth={true} duration= {800}> Contact</Link>
           </NavItem>

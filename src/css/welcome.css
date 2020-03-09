@@ -35,18 +35,6 @@
     padding-left: 20%;
 }
 
-#welcome .layer-bg {
-    background-color: black;
-}
-#welcome .layer-1 {
-	background-image: url("../public/static/welcome.svg");
-}
-#welcome .layer-2 {
-    background-image: url("../public/static/welcome1.svg");
-}
-#welcome .layer-3 {
-	background-image: url("../public/static/welcome2.svg");
-}
 
 #welcome .layer{
     background-position: top right;

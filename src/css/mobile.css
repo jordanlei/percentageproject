@@ -5,6 +5,10 @@
       letter-spacing: 10px;
     }
 
+    .landing-container h2{
+        font-size: 30px;
+    }
+
     .landing-container h3{
         font-size: 22px; 
     }

@@ -1,0 +1,23 @@
+[
+    {
+        "data" : [{ "x": "men", "y": 82 },
+            { "x": "women", "y": 94 },
+            { "x": "non-binary", "y": 100 }],
+        "colors": [[0, 25, 94], [0, 128, 214]],
+        "text": "I agree that conscious and unconscious biases against race, gender, sexual orientation, and religion still exist today."
+    }, 
+    {
+        "data" : [{ "x": "men", "y": 23 },
+            { "x": "women", "y": 56 },
+            { "x": "non-binary", "y": 50 }],
+        "colors": [[0, 25, 94], [0, 128, 214]],
+        "text": "I feel that I have to prove myself before being taken seriously in academic settings."
+    },
+    {
+        "data" : [{ "x": "men", "y": 18 },
+            { "x": "women", "y": 70 },
+            { "x": "non-binary", "y": 75 }],
+        "colors": [[0, 25, 94], [0, 128, 214]],
+        "text": "I have been \"mansplained\" to (interrupted or talked over by someone who assumed they knew more)."
+    }
+]

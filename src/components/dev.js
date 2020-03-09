@@ -28,23 +28,6 @@ class Dev extends Component {
         </section>
         <ContactBanner/>
       </div>
-      /* 
-      <div className="landing-container">
-        
-        
-        <section id = "about">
-          <About/>
-        </section>
-        <section id = "education">
-          <Education/>
-        </section>
-        <section id = "experience">
-          <Experience/>
-        </section>
-        <ArtComponent/>
-        <ContactBanner/>
-      </div>
-      */
     );
   }
 }
