@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "681a2e3c017b8676ce005c43cbcddf3b",
+    "revision": "2f0b52d96b6c51a6aac3ac18b68dde8f",
     "url": "/percentageproject/index.html"
   },
   {
-    "revision": "f63279efaa9e626b1339",
+    "revision": "177309699b12e247b9bc",
     "url": "/percentageproject/static/css/2.b0bb7f2c.chunk.css"
   },
   {
-    "revision": "5eb406142cfb974e8949",
+    "revision": "e749dbc63348fd20d783",
     "url": "/percentageproject/static/css/main.0949de28.chunk.css"
   },
   {
-    "revision": "f63279efaa9e626b1339",
-    "url": "/percentageproject/static/js/2.7e524c46.chunk.js"
+    "revision": "177309699b12e247b9bc",
+    "url": "/percentageproject/static/js/2.2c2a725a.chunk.js"
   },
   {
     "revision": "070a35f007a0d6bcc38c5a4f0360abe1",
-    "url": "/percentageproject/static/js/2.7e524c46.chunk.js.LICENSE"
+    "url": "/percentageproject/static/js/2.2c2a725a.chunk.js.LICENSE"
   },
   {
-    "revision": "5eb406142cfb974e8949",
-    "url": "/percentageproject/static/js/main.6832140e.chunk.js"
+    "revision": "e749dbc63348fd20d783",
+    "url": "/percentageproject/static/js/main.cfd7dc31.chunk.js"
   },
   {
     "revision": "35cb18f7c1ddfb093039",
