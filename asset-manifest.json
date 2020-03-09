@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/percentageproject/static/css/main.023d74a7.chunk.css",
-    "main.js": "/percentageproject/static/js/main.fb6fa86d.chunk.js",
-    "main.js.map": "/percentageproject/static/js/main.fb6fa86d.chunk.js.map",
+    "main.js": "/percentageproject/static/js/main.233aafc4.chunk.js",
+    "main.js.map": "/percentageproject/static/js/main.233aafc4.chunk.js.map",
     "runtime-main.js": "/percentageproject/static/js/runtime-main.1907e37b.js",
     "runtime-main.js.map": "/percentageproject/static/js/runtime-main.1907e37b.js.map",
     "static/css/2.b0bb7f2c.chunk.css": "/percentageproject/static/css/2.b0bb7f2c.chunk.css",
     "static/js/2.6208868a.chunk.js": "/percentageproject/static/js/2.6208868a.chunk.js",
     "static/js/2.6208868a.chunk.js.map": "/percentageproject/static/js/2.6208868a.chunk.js.map",
     "index.html": "/percentageproject/index.html",
-    "precache-manifest.1e9358badc610527c6b07bc89890de20.js": "/percentageproject/precache-manifest.1e9358badc610527c6b07bc89890de20.js",
+    "precache-manifest.c7f6c58553bc173285bfa8719d344f1b.js": "/percentageproject/precache-manifest.c7f6c58553bc173285bfa8719d344f1b.js",
     "service-worker.js": "/percentageproject/service-worker.js",
     "static/css/2.b0bb7f2c.chunk.css.map": "/percentageproject/static/css/2.b0bb7f2c.chunk.css.map",
     "static/css/main.023d74a7.chunk.css.map": "/percentageproject/static/css/main.023d74a7.chunk.css.map",
@@ -34,6 +34,6 @@
     "static/css/2.b0bb7f2c.chunk.css",
     "static/js/2.6208868a.chunk.js",
     "static/css/main.023d74a7.chunk.css",
-    "static/js/main.fb6fa86d.chunk.js"
+    "static/js/main.233aafc4.chunk.js"
   ]
 }
