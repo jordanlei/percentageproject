@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2f0b52d96b6c51a6aac3ac18b68dde8f",
+    "revision": "08c2e485d58f4f9f5d631fc7cacaaaf6",
     "url": "/percentageproject/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/percentageproject/static/css/2.b0bb7f2c.chunk.css"
   },
   {
-    "revision": "e749dbc63348fd20d783",
+    "revision": "35ae722b0944a9a6178e",
     "url": "/percentageproject/static/css/main.0949de28.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/percentageproject/static/js/2.2c2a725a.chunk.js.LICENSE"
   },
   {
-    "revision": "e749dbc63348fd20d783",
-    "url": "/percentageproject/static/js/main.cfd7dc31.chunk.js"
+    "revision": "35ae722b0944a9a6178e",
+    "url": "/percentageproject/static/js/main.97b93c00.chunk.js"
   },
   {
     "revision": "35cb18f7c1ddfb093039",
