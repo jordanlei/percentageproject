@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/percentageproject/static/css/main.0949de28.chunk.css",
-    "main.js": "/percentageproject/static/js/main.36410b87.chunk.js",
-    "main.js.map": "/percentageproject/static/js/main.36410b87.chunk.js.map",
+    "main.js": "/percentageproject/static/js/main.9c1e872c.chunk.js",
+    "main.js.map": "/percentageproject/static/js/main.9c1e872c.chunk.js.map",
     "runtime-main.js": "/percentageproject/static/js/runtime-main.1907e37b.js",
     "runtime-main.js.map": "/percentageproject/static/js/runtime-main.1907e37b.js.map",
     "static/css/2.b0bb7f2c.chunk.css": "/percentageproject/static/css/2.b0bb7f2c.chunk.css",
-    "static/js/2.2927f758.chunk.js": "/percentageproject/static/js/2.2927f758.chunk.js",
-    "static/js/2.2927f758.chunk.js.map": "/percentageproject/static/js/2.2927f758.chunk.js.map",
+    "static/js/2.2c2a725a.chunk.js": "/percentageproject/static/js/2.2c2a725a.chunk.js",
+    "static/js/2.2c2a725a.chunk.js.map": "/percentageproject/static/js/2.2c2a725a.chunk.js.map",
     "index.html": "/percentageproject/index.html",
-    "precache-manifest.cbd90fbb1b3a25668a3a9111f7a8cde1.js": "/percentageproject/precache-manifest.cbd90fbb1b3a25668a3a9111f7a8cde1.js",
+    "precache-manifest.a03d5a0cfc4723720ac0ab16cc7ff95c.js": "/percentageproject/precache-manifest.a03d5a0cfc4723720ac0ab16cc7ff95c.js",
     "service-worker.js": "/percentageproject/service-worker.js",
     "static/css/2.b0bb7f2c.chunk.css.map": "/percentageproject/static/css/2.b0bb7f2c.chunk.css.map",
     "static/css/main.0949de28.chunk.css.map": "/percentageproject/static/css/main.0949de28.chunk.css.map",
-    "static/js/2.2927f758.chunk.js.LICENSE": "/percentageproject/static/js/2.2927f758.chunk.js.LICENSE",
+    "static/js/2.2c2a725a.chunk.js.LICENSE": "/percentageproject/static/js/2.2c2a725a.chunk.js.LICENSE",
     "static/media/abstract1.svg": "/percentageproject/static/media/abstract1.8d917312.svg",
     "static/media/abstract2.svg": "/percentageproject/static/media/abstract2.cacfc72b.svg",
     "static/media/abstract3.svg": "/percentageproject/static/media/abstract3.a47dbf43.svg",
@@ -31,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.1907e37b.js",
     "static/css/2.b0bb7f2c.chunk.css",
-    "static/js/2.2927f758.chunk.js",
+    "static/js/2.2c2a725a.chunk.js",
     "static/css/main.0949de28.chunk.css",
-    "static/js/main.36410b87.chunk.js"
+    "static/js/main.9c1e872c.chunk.js"
   ]
 }
